@@ -144,7 +144,7 @@ leerLocalStorage(){
             })
         }
         else{
-            location.href = "compras.html";
+            location.href = "compra.html";
         }
         
     }
